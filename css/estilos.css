@@ -14,3 +14,11 @@ body
     margin: auto;
 
 }
+
+#cabecera
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: auto;
+    text-align: left;
+    border: 1px solid darkorchid;
+}
