@@ -1,6 +1,16 @@
 body
 {
-    color: cyan;
+    color: chocolate;
     text-align: center;
     font-family: "Arial";
+}
+
+#containter
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 1px solid darkblue;
+    margin: auto;
+
 }
